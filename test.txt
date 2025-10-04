@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Hellow word, how are you.
 
 hi
+=======
+>>>>>>> parent of 3d908c4 (updated)
